@@ -17,4 +17,5 @@ This project involves a comprehensive analysis of Walmart's weekly sales data to
 
 ##  Project Structure
 - `walmart_analysis.sql`: Full SQL script containing data cleaning, transformation, and exploratory queries.
+- `dasboard.png`: Sales dashboard
 - `README.md`: Project documentation and summary of findings.
